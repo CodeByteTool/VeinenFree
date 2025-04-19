@@ -1,0 +1,21 @@
+os
+time
+random
+colorama
+requests
+threading
+pystyle import *
+colorama import Fore
+string
+threading
+asyncio
+tls_client
+ctypes
+subprocess
+re
+json
+base64
+sqlite3
+win32crypt
+Cryptodome.Cipher import AES
+win32crypt import CryptUnprotectData
