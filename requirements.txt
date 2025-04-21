@@ -17,5 +17,5 @@ json
 base64
 sqlite3
 win32crypt
-Cryptodome.Cipher import AES
-win32crypt import CryptUnprotectData
+Cryptodome.Cipher 
+win32crypt 
