@@ -4,8 +4,8 @@ random
 colorama
 requests
 threading
-pystyle import *
-colorama import Fore
+pystyle 
+colorama 
 string
 threading
 asyncio
